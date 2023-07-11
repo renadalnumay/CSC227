@@ -1,0 +1,12 @@
+
+[The Partition Status: allocated| The Size of Partition: 1000KB| Starting Address: 0KB| Ending Address: 999KB
+| The Process ID: P22| The Internal Fragmentation Size: 998]
+
+
+[The Partition Status: free| The Size of Partition: 10KB| Starting Address: 1000KB| Ending Address: 1009KB
+| The Process ID: Null| The Internal Fragmentation Size: -1]
+
+
+[The Partition Status: free| The Size of Partition: 12KB| Starting Address: 1010KB| Ending Address: 1021KB
+| The Process ID: Null| The Internal Fragmentation Size: -1]
+
